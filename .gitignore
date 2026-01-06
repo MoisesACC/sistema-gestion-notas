@@ -1,0 +1,24 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Backend (Spring Boot)
+/notas-asistencia/target/
+/notas-asistencia/.mvn/
+/notas-asistencia/mvnw
+/notas-asistencia/mvnw.cmd
+
+# Frontend (React)
+/ProyectoNotas/node_modules/
+/ProyectoNotas/dist/
+/ProyectoNotas/.env*
+/ProyectoNotas/.vercel
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
