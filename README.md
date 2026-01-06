@@ -1,8 +1,8 @@
 # EduNotes Pro - Sistema de Gestión Académica Integral 🎓
 
 ![Versión](https://img.shields.io/badge/version-1.0.0-blue)
-![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot%203.2-green)
-![React](https://img.shields.io/badge/Frontend-React%2018-cyan)
+![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot%203.2.0-green)
+![React](https://img.shields.io/badge/Frontend-React%2019.2-cyan)
 ![MySQL](https://img.shields.io/badge/Database-MySQL%208-orange)
 
 **EduNotes Pro** es una plataforma de gestión escolar de última generación diseñada para digitalizar y optimizar procesos académicos. Con una interfaz ultra-moderna basada en *Glassmorphism* y una arquitectura robusta, permite a instituciones educativas gestionar estudiantes, asistencias y calificaciones con un enfoque de privacidad y aislamiento de datos por docente.
@@ -38,7 +38,7 @@
 - **Lombok**: Reducción de código boilerplate.
 
 ### Frontend
-- **React 18 / Vite**: Biblioteca de UI de alta performance.
+- **React 19 / Vite**: Biblioteca de UI de alta performance.
 - **Framer Motion**: Motor de animaciones.
 - **Lucide React**: Set de iconos modernos de trazo fino.
 - **Axios**: Cliente HTTP para integración con la API.
